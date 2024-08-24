@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Canophia 的主页</title>
+  <icon>https://www.gravatar.com/avatar/7c9f6f6e04ebc72444424951be140634</icon>
+  
+  <link href="https://canophia.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://canophia.github.io/"/>
+  <updated>2024-08-24T16:46:45.025Z</updated>
+  <id>https://canophia.github.io/</id>
+  
+  <author>
+    <name>Canophia Kochiya</name>
+    <email>canophia@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>了解 Canophia</title>
+    <link href="https://canophia.github.io/2024/08/23/Learn-Canophia/"/>
+    <id>https://canophia.github.io/2024/08/23/Learn-Canophia/</id>
+    <published>2024-08-22T21:33:09.000Z</published>
+    <updated>2024-08-24T16:46:45.025Z</updated>
+    
+    <content type="html"><![CDATA[<p>简单的介绍：</p><ul><li>姓名：Canophia Kochiya</li><li>生日：某一年的秋分</li><li>职业：初级魔法使</li><li>教育：毕业于中国魔法学院（北京）</li><li>联系：请使用“你第一次认识我的那个平台”的私信功能。</li></ul><p>在需要验证真实性的场合，请使用如下的 RSA 公钥。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">-----BEGIN PUBLIC KEY-----</span><br><span class="line">MIIBITANBgkqhkiG9w0BAQEFAAOCAQ4AMIIBCQKCAQBS/pGHLjjv3c/hhHK5LLQ9</span><br><span class="line">T0UR1NYpSNTFUtmcB9GUoHdfgNDnq+S1k7vDuRYpdsEUEBg9KVZZFTr8Pe4aDlUt</span><br><span class="line">wvUN1kkd4jp+O/5hUxHWHBW8Ry1RD7FYre6hFSdsqc4kSim4vGUHWqyT24DBzhX0</span><br><span class="line">4ALcc8dixvrdDNp58YwgQeSq085Tyb+H9va1tUeFhL4IyUlU7PEfekQPVAZd2PMa</span><br><span class="line">DqFxfMC3tJQIk+gXJLgNCR/q28p7TI4VGl4THuFhDIK3JZp+o3QcHJLwVHtTZD7Q</span><br><span class="line">lwwaLAIz14YKw3tv7766uhGgGb5rlIAkNHzDeKZwBxEIeq/Bu7cXfA+mbznOMs8d</span><br><span class="line">AgMBAAE=</span><br><span class="line">-----END PUBLIC KEY-----</span><br></pre></td></tr></table></figure><p>一些小知识：</p><ul><li>Kochiya 是东风谷早苗的 Kochiya。</li><li>使用如下语言：中文（普通话，母语水平）、英文（C1）、法语（A1）、日语（A1~B1，取决于测验方式）；C&#x2F;C++、Pascal。</li><li>梦想是当 VTuber (?)</li><li>魔法什么的我已经学得够多了</li><li>也可以使用无线电来找到我。我的呼号是 [数据删除]。</li><li>对如何建造一个有效的交通运输系统感兴趣。</li><li>可以向我寻求心理帮助。试过的人都说好！</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;简单的介绍：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;姓名：Canophia Kochiya&lt;/li&gt;
+&lt;li&gt;生日：某一年的秋分&lt;/li&gt;
+&lt;li&gt;职业：初级魔法使&lt;/li&gt;
+&lt;li&gt;教育：毕业于中国魔法学院（北京）&lt;/li&gt;
+&lt;li&gt;联系：请使用“你第一次认识我的那个平台”的私信功能</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
