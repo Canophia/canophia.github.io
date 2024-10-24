@@ -6,7 +6,7 @@
   <link href="https://canophia.github.io/atom.xml" rel="self"/>
   
   <link href="https://canophia.github.io/"/>
-  <updated>2024-08-24T16:46:45.025Z</updated>
+  <updated>2024-10-24T19:01:45.337Z</updated>
   <id>https://canophia.github.io/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>随笔 - 数学与算数</title>
+    <link href="https://canophia.github.io/2024/10/25/1/"/>
+    <id>https://canophia.github.io/2024/10/25/1/</id>
+    <published>2024-10-24T19:01:00.000Z</published>
+    <updated>2024-10-24T19:01:45.337Z</updated>
+    
+    <content type="html"><![CDATA[<p>那是在我大一的时候，我高考考完，刚进数学系，什么也不明白，从来没有接触过太多数学，唯独对自己特别自信，于是报了一门课叫“几何与对称”。这门课内容也挺抽象的，是给零基础学生讲解各种近代数学大杂烩，包括但不限于群论、拓扑、复分析等等。老师是ABC，用中文讲课也费劲，基本上等于我去美国当助教的口语水平。但我还是狠心把这门课听了几周，结果发现……啥也学不会。我根本不懂什么叫群。对，乘法是有这个性质，但这和群有什么关系呢？群同态又是什么？开集有这个性质那个性质，但开集的具体例子是什么？拓扑又是什么？于是我就一头雾水地听了两周。</p><p>我感觉这样下去不行，于是就跑到图书馆，好好看了看这几次课记下来的笔记。（没错，我那时候甚至还记笔记！）我对着笔记看了几遍，又把习题看了几遍。</p><p>那一天是下午，我坐在图书馆靠窗的座位上，面前就是窗户。我仔细地把笔记一字排开，排满了整张桌子。阳光明媚而不刺眼，我抬头望向蓝天，突然就明白了这么多定义究竟是在讲什么。我永远也不会忘记这一刻。</p><p>那一刻的感觉和五年前的另一次感觉无比类似。那是我第一次拿到八年级数学书。当时我还很年轻，脑子是全新的，很好使，发教材的那一天我会把所有教材全部看一遍。于是我把数学教材看了一遍，但可能是唯一一次我被教材给难住的情况出现了：我完全看不懂什么叫函数。于是我就把书合上，不再去想这个问题。等到对应的单元开始上课的时候，我翻开书本，一下子就完全明白了：函数就是值和值之间的对应，就是无论给一个什么值，都可以通过查表找到另一个值。</p><p>这两次经历的背后可以说是数学史上的飞跃吧。在这之前，人们做数学的方式属于是看到什么做什么，就事论事。解二次方程就属于典型的就事论事，虽然很难想到，但配方是已知的技巧，开根号也是已知的技巧，两者结合起来就得到了解二次方程的办法。直到今天，把已知的技巧排列组合起来也是很常用的办法，很多数学家也正在做这样的事情。</p><p>但函数和群论或者拓扑属于是另一种形式的数学。人们发现，把某个东西推广到最广的意义上，和现实生活中的东西可能很相似，这也许能更好地帮助解决问题。比如说群，任何只包含最低限度的乘法的集合都可以叫做群，不同的乘法可以给出不同的群。这种抽象到脱离现实的东西却能解决许多问题。</p><p>只不过，所有这种东西的提出都是为了一个目标：把一个人们不熟悉的事物和一个人们熟悉的事物联系起来。所以我一直持有“数学是类比科学”的观点，所有问题的解决不是来自于一个人的灵光乍现，而是对无数前人工作的一次次改进、迁移。在 Galois 那个年代，没有人关心什么置换群，Galois  只是发现了“这个根和那个根不一样”，后来人对此加以完善罢了。概形的来源可以看我翻译的 Hartshorne 上的原文。</p><p>说回正题。这件事告诉我们什么呢？首先是不要当名词党。如果你只关心曲线这种简单的东西，那就不要去讨论概形了，这是类比的基础，学习更高级的内容没有特别的好处。但要学习更复杂的概形的话，就应该学学曲线这种已有的知识，这上面的性质是很多附加内容的基础。另外的一点，不用抗拒复杂的抽象定义，也许在算数里面永远解决不了的问题，用上了抽象观点之后三五下就解决了。还有就是对于什么也不明白的学生来说，不要着急，找个安静的下午，对着窗户想一想，这几节课到底讲了什么，也许你也会茅塞顿开。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;那是在我大一的时候，我高考考完，刚进数学系，什么也不明白，从来没有接触过太多数学，唯独对自己特别自信，于是报了一门课叫“几何与对称”。这门课内容也挺抽象的，是给零基础学生讲解各种近代数学大杂烩，包括但不限于群论、拓扑、复分析等等。老师是ABC，用中文讲课也费劲，基本上等于我</summary>
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://canophia.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>了解 Canophia</title>
     <link href="https://canophia.github.io/2024/08/23/Learn-Canophia/"/>
     <id>https://canophia.github.io/2024/08/23/Learn-Canophia/</id>
     <published>2024-08-22T21:33:09.000Z</published>
-    <updated>2024-08-24T16:46:45.025Z</updated>
+    <updated>2024-10-24T19:04:36.936Z</updated>
     
-    <content type="html"><![CDATA[<p>简单的介绍：</p><ul><li>姓名：Canophia Kochiya</li><li>生日：某一年的秋分</li><li>职业：初级魔法使</li><li>教育：毕业于中国魔法学院（北京）</li><li>联系：请使用“你第一次认识我的那个平台”的私信功能。</li></ul><p>在需要验证真实性的场合，请使用如下的 RSA 公钥。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">-----BEGIN PUBLIC KEY-----</span><br><span class="line">MIIBITANBgkqhkiG9w0BAQEFAAOCAQ4AMIIBCQKCAQBS/pGHLjjv3c/hhHK5LLQ9</span><br><span class="line">T0UR1NYpSNTFUtmcB9GUoHdfgNDnq+S1k7vDuRYpdsEUEBg9KVZZFTr8Pe4aDlUt</span><br><span class="line">wvUN1kkd4jp+O/5hUxHWHBW8Ry1RD7FYre6hFSdsqc4kSim4vGUHWqyT24DBzhX0</span><br><span class="line">4ALcc8dixvrdDNp58YwgQeSq085Tyb+H9va1tUeFhL4IyUlU7PEfekQPVAZd2PMa</span><br><span class="line">DqFxfMC3tJQIk+gXJLgNCR/q28p7TI4VGl4THuFhDIK3JZp+o3QcHJLwVHtTZD7Q</span><br><span class="line">lwwaLAIz14YKw3tv7766uhGgGb5rlIAkNHzDeKZwBxEIeq/Bu7cXfA+mbznOMs8d</span><br><span class="line">AgMBAAE=</span><br><span class="line">-----END PUBLIC KEY-----</span><br></pre></td></tr></table></figure><p>一些小知识：</p><ul><li>Kochiya 是东风谷早苗的 Kochiya。</li><li>使用如下语言：中文（普通话，母语水平）、英文（C1）、法语（A1）、日语（A1~B1，取决于测验方式）；C&#x2F;C++、Pascal。</li><li>梦想是当 VTuber (?)</li><li>魔法什么的我已经学得够多了</li><li>也可以使用无线电来找到我。我的呼号是 [数据删除]。</li><li>对如何建造一个有效的交通运输系统感兴趣。</li><li>可以向我寻求心理帮助。试过的人都说好！</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>简单的介绍：</p><ul><li>姓名：Canophia Kochiya</li><li>生日：某一年的秋分</li><li>职业：初级魔法使</li><li>教育：毕业于中国魔法学院（北京）</li><li>联系：请使用“你第一次认识我的那个平台”的私信功能。</li></ul><p>在需要验证真实性的场合，请使用如下的 RSA 公钥。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">-----BEGIN PUBLIC KEY-----</span><br><span class="line">MIIBITANBgkqhkiG9w0BAQEFAAOCAQ4AMIIBCQKCAQBS/pGHLjjv3c/hhHK5LLQ9</span><br><span class="line">T0UR1NYpSNTFUtmcB9GUoHdfgNDnq+S1k7vDuRYpdsEUEBg9KVZZFTr8Pe4aDlUt</span><br><span class="line">wvUN1kkd4jp+O/5hUxHWHBW8Ry1RD7FYre6hFSdsqc4kSim4vGUHWqyT24DBzhX0</span><br><span class="line">4ALcc8dixvrdDNp58YwgQeSq085Tyb+H9va1tUeFhL4IyUlU7PEfekQPVAZd2PMa</span><br><span class="line">DqFxfMC3tJQIk+gXJLgNCR/q28p7TI4VGl4THuFhDIK3JZp+o3QcHJLwVHtTZD7Q</span><br><span class="line">lwwaLAIz14YKw3tv7766uhGgGb5rlIAkNHzDeKZwBxEIeq/Bu7cXfA+mbznOMs8d</span><br><span class="line">AgMBAAE=</span><br><span class="line">-----END PUBLIC KEY-----</span><br></pre></td></tr></table></figure><p>一些小知识：</p><ul><li>Kochiya 是东风谷早苗的 Kochiya。</li><li>使用如下语言：中文（普通话，母语水平）、英文（C1）、法语（A1）、日语（A1~B1，取决于测验方式）；C&#x2F;C++、Pascal。</li><li>梦想是当 VTuber (?)</li><li>魔法什么的我已经学得够多了</li><li>也可以使用无线电来找到我。由于太容易被开盒，因此请私聊我询问呼号。</li><li>对如何建造一个有效的交通运输系统感兴趣。</li><li>可以向我寻求心理帮助。试过的人都说好！</li></ul>]]></content>
     
     
       
